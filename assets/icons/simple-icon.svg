@@ -1,0 +1,16 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- 渐变背景 -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景圆形 -->
+  <circle cx="128" cy="128" r="120" fill="url(#bgGradient)"/>
+  
+  <!-- 简化的 S 字母 -->
+  <path d="M90 70 L166 70 Q180 70, 180 85 L180 100 Q180 115, 166 115 L110 115 L110 140 L160 140 Q175 140, 175 155 L175 170 Q175 185, 160 185 L90 185 Q75 185, 75 170 L75 155 Q75 140, 90 140 L145 140 L145 115 L95 115 Q80 115, 80 100 L80 85 Q80 70, 95 70 Z" 
+        fill="white"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="128" cy="128" r="120" fill="#4F46E5"/>
+  
+  <!-- Sanctuary 字母 S 的艺术化设计 -->
+  <path d="M80 60 L176 60 Q190 60, 190 75 L190 90 Q190 105, 176 105 L120 105 L120 130 L170 130 Q185 130, 185 145 L185 160 Q185 175, 170 175 L80 175 Q65 175, 65 160 L65 145 Q65 130, 80 130 L135 130 L135 105 L85 105 Q70 105, 70 90 L70 75 Q70 60, 85 60 Z" 
+        fill="white"/>
+  
+  <!-- 底部装饰线条 -->
+  <rect x="90" y="195" width="76" height="4" rx="2" fill="white" opacity="0.8"/>
+  <rect x="100" y="205" width="56" height="4" rx="2" fill="white" opacity="0.6"/>
+  <rect x="110" y="215" width="36" height="4" rx="2" fill="white" opacity="0.4"/>
+</svg>
